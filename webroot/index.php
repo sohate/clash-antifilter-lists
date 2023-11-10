@@ -398,11 +398,13 @@
 		<div class="bottomnav">
 			<div><img class="icon-clash"> Clash:
 				<a href="1st_of_all.yaml">user list</a>,
-				<a href="antifilter.yaml">antifilter list</a>
+				<a href="antifilter.yaml">antifilter list</a>,
+				<a href="community.yaml">community list</a>
 			</div>
 			<div><img class="icon-shadowrocket"> Shadowrocket:
 				<a href="1st_of_all.list">user list</a>,
-				<a href="antifilter.list">antifilter list</a>
+				<a href="antifilter.list">antifilter list</a>,
+				<a href="community.list">community list</a>
 			</div>
 			<div class="copyright"><img class="fas-fa-terminal"> created by ZeroChaos. Visit site: <a href="https://zerolab.net" target="_blank">zerolab.net</a></div>
 		</div>
